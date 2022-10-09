@@ -1,0 +1,1268 @@
+[
+  {
+    "iso2Code": "AW",
+    "iso3Code": "ABW",
+    "name": "Aruba",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AW.png"
+  },
+  {
+    "iso2Code": "AF",
+    "iso3Code": "AFG",
+    "name": "Afghanistan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AF.png"
+  },
+  {
+    "iso2Code": "AO",
+    "iso3Code": "AGO",
+    "name": "Angola",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AO.png"
+  },
+  {
+    "iso2Code": "AL",
+    "iso3Code": "ALB",
+    "name": "Albania",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AL.png"
+  },
+  {
+    "iso2Code": "AD",
+    "iso3Code": "AND",
+    "name": "Andorra",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AD.png"
+  },
+  {
+    "iso2Code": "AE",
+    "iso3Code": "ARE",
+    "name": "United Arab Emirates",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AE.png"
+  },
+  {
+    "iso2Code": "AR",
+    "iso3Code": "ARG",
+    "name": "Argentina",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AR.png"
+  },
+  {
+    "iso2Code": "AM",
+    "iso3Code": "ARM",
+    "name": "Armenia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AM.png"
+  },
+  {
+    "iso2Code": "AS",
+    "iso3Code": "ASM",
+    "name": "American Samoa",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AS.png"
+  },
+  {
+    "iso2Code": "AG",
+    "iso3Code": "ATG",
+    "name": "Antigua and Barbuda",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AG.png"
+  },
+  {
+    "iso2Code": "AU",
+    "iso3Code": "AUS",
+    "name": "Australia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AU.png"
+  },
+  {
+    "iso2Code": "AT",
+    "iso3Code": "AUT",
+    "name": "Austria",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AT.png"
+  },
+  {
+    "iso2Code": "AZ",
+    "iso3Code": "AZE",
+    "name": "Azerbaijan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/AZ.png"
+  },
+  {
+    "iso2Code": "BI",
+    "iso3Code": "BDI",
+    "name": "Burundi",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BI.png"
+  },
+  {
+    "iso2Code": "BE",
+    "iso3Code": "BEL",
+    "name": "Belgium",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BE.png"
+  },
+  {
+    "iso2Code": "BJ",
+    "iso3Code": "BEN",
+    "name": "Benin",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BJ.png"
+  },
+  {
+    "iso2Code": "BF",
+    "iso3Code": "BFA",
+    "name": "Burkina Faso",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BF.png"
+  },
+  {
+    "iso2Code": "BD",
+    "iso3Code": "BGD",
+    "name": "Bangladesh",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BD.png"
+  },
+  {
+    "iso2Code": "BG",
+    "iso3Code": "BGR",
+    "name": "Bulgaria",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BG.png"
+  },
+  {
+    "iso2Code": "BH",
+    "iso3Code": "BHR",
+    "name": "Bahrain",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BH.png"
+  },
+  {
+    "iso2Code": "BS",
+    "iso3Code": "BHS",
+    "name": "Bahamas, The",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BS.png"
+  },
+  {
+    "iso2Code": "BA",
+    "iso3Code": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BA.png"
+  },
+  {
+    "iso2Code": "BY",
+    "iso3Code": "BLR",
+    "name": "Belarus",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BY.png"
+  },
+  {
+    "iso2Code": "BZ",
+    "iso3Code": "BLZ",
+    "name": "Belize",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BZ.png"
+  },
+  {
+    "iso2Code": "BM",
+    "iso3Code": "BMU",
+    "name": "Bermuda",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BM.png"
+  },
+  {
+    "iso2Code": "BO",
+    "iso3Code": "BOL",
+    "name": "Bolivia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BO.png"
+  },
+  {
+    "iso2Code": "BR",
+    "iso3Code": "BRA",
+    "name": "Brazil",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BR.png"
+  },
+  {
+    "iso2Code": "BB",
+    "iso3Code": "BRB",
+    "name": "Barbados",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BB.png"
+  },
+  {
+    "iso2Code": "BN",
+    "iso3Code": "BRN",
+    "name": "Brunei Darussalam",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BN.png"
+  },
+  {
+    "iso2Code": "BT",
+    "iso3Code": "BTN",
+    "name": "Bhutan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BT.png"
+  },
+  {
+    "iso2Code": "BW",
+    "iso3Code": "BWA",
+    "name": "Botswana",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/BW.png"
+  },
+  {
+    "iso2Code": "CF",
+    "iso3Code": "CAF",
+    "name": "Central African Republic",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CF.png"
+  },
+  {
+    "iso2Code": "CA",
+    "iso3Code": "CAN",
+    "name": "Canada",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CA.png"
+  },
+  {
+    "iso2Code": "CH",
+    "iso3Code": "CHE",
+    "name": "Switzerland",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CH.png"
+  },
+  {
+    "iso2Code": "CL",
+    "iso3Code": "CHL",
+    "name": "Chile",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CL.png"
+  },
+  {
+    "iso2Code": "CN",
+    "iso3Code": "CHN",
+    "name": "China",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CN.png"
+  },
+  {
+    "iso2Code": "CI",
+    "iso3Code": "CIV",
+    "name": "Cote d'Ivoire",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CI.png"
+  },
+  {
+    "iso2Code": "CM",
+    "iso3Code": "CMR",
+    "name": "Cameroon",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CM.png"
+  },
+  {
+    "iso2Code": "CD",
+    "iso3Code": "COD",
+    "name": "Congo, Dem. Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CD.png"
+  },
+  {
+    "iso2Code": "CG",
+    "iso3Code": "COG",
+    "name": "Congo, Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CG.png"
+  },
+  {
+    "iso2Code": "CO",
+    "iso3Code": "COL",
+    "name": "Colombia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CO.png"
+  },
+  {
+    "iso2Code": "KM",
+    "iso3Code": "COM",
+    "name": "Comoros",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KM.png"
+  },
+  {
+    "iso2Code": "CV",
+    "iso3Code": "CPV",
+    "name": "Cabo Verde",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CV.png"
+  },
+  {
+    "iso2Code": "CR",
+    "iso3Code": "CRI",
+    "name": "Costa Rica",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CR.png"
+  },
+  {
+    "iso2Code": "CU",
+    "iso3Code": "CUB",
+    "name": "Cuba",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CU.png"
+  },
+  {
+    "iso2Code": "CW",
+    "iso3Code": "CUW",
+    "name": "Curacao",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CW.png"
+  },
+  {
+    "iso2Code": "KY",
+    "iso3Code": "CYM",
+    "name": "Cayman Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KY.png"
+  },
+  {
+    "iso2Code": "CY",
+    "iso3Code": "CYP",
+    "name": "Cyprus",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CY.png"
+  },
+  {
+    "iso2Code": "CZ",
+    "iso3Code": "CZE",
+    "name": "Czechia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/CZ.png"
+  },
+  {
+    "iso2Code": "DE",
+    "iso3Code": "DEU",
+    "name": "Germany",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/DE.png"
+  },
+  {
+    "iso2Code": "DJ",
+    "iso3Code": "DJI",
+    "name": "Djibouti",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/DJ.png"
+  },
+  {
+    "iso2Code": "DM",
+    "iso3Code": "DMA",
+    "name": "Dominica",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/DM.png"
+  },
+  {
+    "iso2Code": "DK",
+    "iso3Code": "DNK",
+    "name": "Denmark",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/DK.png"
+  },
+  {
+    "iso2Code": "DO",
+    "iso3Code": "DOM",
+    "name": "Dominican Republic",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/DO.png"
+  },
+  {
+    "iso2Code": "DZ",
+    "iso3Code": "DZA",
+    "name": "Algeria",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/DZ.png"
+  },
+  {
+    "iso2Code": "EC",
+    "iso3Code": "ECU",
+    "name": "Ecuador",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/EC.png"
+  },
+  {
+    "iso2Code": "EG",
+    "iso3Code": "EGY",
+    "name": "Egypt, Arab Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/EG.png"
+  },
+  {
+    "iso2Code": "ER",
+    "iso3Code": "ERI",
+    "name": "Eritrea",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ER.png"
+  },
+  {
+    "iso2Code": "ES",
+    "iso3Code": "ESP",
+    "name": "Spain",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ES.png"
+  },
+  {
+    "iso2Code": "EE",
+    "iso3Code": "EST",
+    "name": "Estonia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/EE.png"
+  },
+  {
+    "iso2Code": "ET",
+    "iso3Code": "ETH",
+    "name": "Ethiopia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ET.png"
+  },
+  {
+    "iso2Code": "FI",
+    "iso3Code": "FIN",
+    "name": "Finland",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/FI.png"
+  },
+  {
+    "iso2Code": "FJ",
+    "iso3Code": "FJI",
+    "name": "Fiji",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/FJ.png"
+  },
+  {
+    "iso2Code": "FR",
+    "iso3Code": "FRA",
+    "name": "France",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/FR.png"
+  },
+  {
+    "iso2Code": "FO",
+    "iso3Code": "FRO",
+    "name": "Faroe Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/FO.png"
+  },
+  {
+    "iso2Code": "FM",
+    "iso3Code": "FSM",
+    "name": "Micronesia, Fed. Sts.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/FM.png"
+  },
+  {
+    "iso2Code": "GA",
+    "iso3Code": "GAB",
+    "name": "Gabon",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GA.png"
+  },
+  {
+    "iso2Code": "GB",
+    "iso3Code": "GBR",
+    "name": "United Kingdom",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GB.png"
+  },
+  {
+    "iso2Code": "GE",
+    "iso3Code": "GEO",
+    "name": "Georgia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GE.png"
+  },
+  {
+    "iso2Code": "GH",
+    "iso3Code": "GHA",
+    "name": "Ghana",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GH.png"
+  },
+  {
+    "iso2Code": "GN",
+    "iso3Code": "GIN",
+    "name": "Guinea",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GN.png"
+  },
+  {
+    "iso2Code": "GM",
+    "iso3Code": "GMB",
+    "name": "Gambia, The",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GM.png"
+  },
+  {
+    "iso2Code": "GW",
+    "iso3Code": "GNB",
+    "name": "Guinea-Bissau",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GW.png"
+  },
+  {
+    "iso2Code": "GQ",
+    "iso3Code": "GNQ",
+    "name": "Equatorial Guinea",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GQ.png"
+  },
+  {
+    "iso2Code": "GR",
+    "iso3Code": "GRC",
+    "name": "Greece",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GR.png"
+  },
+  {
+    "iso2Code": "GD",
+    "iso3Code": "GRD",
+    "name": "Grenada",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GD.png"
+  },
+  {
+    "iso2Code": "GL",
+    "iso3Code": "GRL",
+    "name": "Greenland",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GL.png"
+  },
+  {
+    "iso2Code": "GT",
+    "iso3Code": "GTM",
+    "name": "Guatemala",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GT.png"
+  },
+  {
+    "iso2Code": "GU",
+    "iso3Code": "GUM",
+    "name": "Guam",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GU.png"
+  },
+  {
+    "iso2Code": "GY",
+    "iso3Code": "GUY",
+    "name": "Guyana",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/GY.png"
+  },
+  {
+    "iso2Code": "HN",
+    "iso3Code": "HND",
+    "name": "Honduras",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/HN.png"
+  },
+  {
+    "iso2Code": "HR",
+    "iso3Code": "HRV",
+    "name": "Croatia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/HR.png"
+  },
+  {
+    "iso2Code": "HT",
+    "iso3Code": "HTI",
+    "name": "Haiti",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/HT.png"
+  },
+  {
+    "iso2Code": "HU",
+    "iso3Code": "HUN",
+    "name": "Hungary",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/HU.png"
+  },
+  {
+    "iso2Code": "ID",
+    "iso3Code": "IDN",
+    "name": "Indonesia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ID.png"
+  },
+  {
+    "iso2Code": "IM",
+    "iso3Code": "IMN",
+    "name": "Isle of Man",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IM.png"
+  },
+  {
+    "iso2Code": "IN",
+    "iso3Code": "IND",
+    "name": "India",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IN.png"
+  },
+  {
+    "iso2Code": "IE",
+    "iso3Code": "IRL",
+    "name": "Ireland",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IE.png"
+  },
+  {
+    "iso2Code": "IR",
+    "iso3Code": "IRN",
+    "name": "Iran, Islamic Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IR.png"
+  },
+  {
+    "iso2Code": "IQ",
+    "iso3Code": "IRQ",
+    "name": "Iraq",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IQ.png"
+  },
+  {
+    "iso2Code": "IS",
+    "iso3Code": "ISL",
+    "name": "Iceland",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IS.png"
+  },
+  {
+    "iso2Code": "IT",
+    "iso3Code": "ITA",
+    "name": "Italy",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/IT.png"
+  },
+  {
+    "iso2Code": "JM",
+    "iso3Code": "JAM",
+    "name": "Jamaica",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/JM.png"
+  },
+  {
+    "iso2Code": "JO",
+    "iso3Code": "JOR",
+    "name": "Jordan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/JO.png"
+  },
+  {
+    "iso2Code": "JP",
+    "iso3Code": "JPN",
+    "name": "Japan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/JP.png"
+  },
+  {
+    "iso2Code": "KZ",
+    "iso3Code": "KAZ",
+    "name": "Kazakhstan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KZ.png"
+  },
+  {
+    "iso2Code": "KE",
+    "iso3Code": "KEN",
+    "name": "Kenya",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KE.png"
+  },
+  {
+    "iso2Code": "KG",
+    "iso3Code": "KGZ",
+    "name": "Kyrgyz Republic",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KG.png"
+  },
+  {
+    "iso2Code": "KH",
+    "iso3Code": "KHM",
+    "name": "Cambodia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KH.png"
+  },
+  {
+    "iso2Code": "KI",
+    "iso3Code": "KIR",
+    "name": "Kiribati",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KI.png"
+  },
+  {
+    "iso2Code": "KN",
+    "iso3Code": "KNA",
+    "name": "St. Kitts and Nevis",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KN.png"
+  },
+  {
+    "iso2Code": "KR",
+    "iso3Code": "KOR",
+    "name": "Korea, Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KR.png"
+  },
+  {
+    "iso2Code": "KW",
+    "iso3Code": "KWT",
+    "name": "Kuwait",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KW.png"
+  },
+  {
+    "iso2Code": "LA",
+    "iso3Code": "LAO",
+    "name": "Lao PDR",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LA.png"
+  },
+  {
+    "iso2Code": "LB",
+    "iso3Code": "LBN",
+    "name": "Lebanon",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LB.png"
+  },
+  {
+    "iso2Code": "LR",
+    "iso3Code": "LBR",
+    "name": "Liberia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LR.png"
+  },
+  {
+    "iso2Code": "LY",
+    "iso3Code": "LBY",
+    "name": "Libya",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LY.png"
+  },
+  {
+    "iso2Code": "LC",
+    "iso3Code": "LCA",
+    "name": "St. Lucia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LC.png"
+  },
+  {
+    "iso2Code": "LI",
+    "iso3Code": "LIE",
+    "name": "Liechtenstein",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LI.png"
+  },
+  {
+    "iso2Code": "LK",
+    "iso3Code": "LKA",
+    "name": "Sri Lanka",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LK.png"
+  },
+  {
+    "iso2Code": "LS",
+    "iso3Code": "LSO",
+    "name": "Lesotho",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LS.png"
+  },
+  {
+    "iso2Code": "LT",
+    "iso3Code": "LTU",
+    "name": "Lithuania",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LT.png"
+  },
+  {
+    "iso2Code": "LU",
+    "iso3Code": "LUX",
+    "name": "Luxembourg",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LU.png"
+  },
+  {
+    "iso2Code": "LV",
+    "iso3Code": "LVA",
+    "name": "Latvia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/LV.png"
+  },
+  {
+    "iso2Code": "MF",
+    "iso3Code": "MAF",
+    "name": "St. Martin (French part)",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MF.png"
+  },
+  {
+    "iso2Code": "MA",
+    "iso3Code": "MAR",
+    "name": "Morocco",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MA.png"
+  },
+  {
+    "iso2Code": "MC",
+    "iso3Code": "MCO",
+    "name": "Monaco",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MC.png"
+  },
+  {
+    "iso2Code": "MD",
+    "iso3Code": "MDA",
+    "name": "Moldova",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MD.png"
+  },
+  {
+    "iso2Code": "MG",
+    "iso3Code": "MDG",
+    "name": "Madagascar",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MG.png"
+  },
+  {
+    "iso2Code": "MV",
+    "iso3Code": "MDV",
+    "name": "Maldives",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MV.png"
+  },
+  {
+    "iso2Code": "MX",
+    "iso3Code": "MEX",
+    "name": "Mexico",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MX.png"
+  },
+  {
+    "iso2Code": "MH",
+    "iso3Code": "MHL",
+    "name": "Marshall Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MH.png"
+  },
+  {
+    "iso2Code": "MK",
+    "iso3Code": "MKD",
+    "name": "North Macedonia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MK.png"
+  },
+  {
+    "iso2Code": "ML",
+    "iso3Code": "MLI",
+    "name": "Mali",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ML.png"
+  },
+  {
+    "iso2Code": "MT",
+    "iso3Code": "MLT",
+    "name": "Malta",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MT.png"
+  },
+  {
+    "iso2Code": "MM",
+    "iso3Code": "MMR",
+    "name": "Myanmar",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MM.png"
+  },
+  {
+    "iso2Code": "ME",
+    "iso3Code": "MNE",
+    "name": "Montenegro",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ME.png"
+  },
+  {
+    "iso2Code": "MN",
+    "iso3Code": "MNG",
+    "name": "Mongolia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MN.png"
+  },
+  {
+    "iso2Code": "MP",
+    "iso3Code": "MNP",
+    "name": "Northern Mariana Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MP.png"
+  },
+  {
+    "iso2Code": "MZ",
+    "iso3Code": "MOZ",
+    "name": "Mozambique",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MZ.png"
+  },
+  {
+    "iso2Code": "MR",
+    "iso3Code": "MRT",
+    "name": "Mauritania",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MR.png"
+  },
+  {
+    "iso2Code": "MU",
+    "iso3Code": "MUS",
+    "name": "Mauritius",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MU.png"
+  },
+  {
+    "iso2Code": "MW",
+    "iso3Code": "MWI",
+    "name": "Malawi",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MW.png"
+  },
+  {
+    "iso2Code": "MY",
+    "iso3Code": "MYS",
+    "name": "Malaysia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/MY.png"
+  },
+  {
+    "iso2Code": "NA",
+    "iso3Code": "NAM",
+    "name": "Namibia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NA.png"
+  },
+  {
+    "iso2Code": "NC",
+    "iso3Code": "NCL",
+    "name": "New Caledonia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NC.png"
+  },
+  {
+    "iso2Code": "NE",
+    "iso3Code": "NER",
+    "name": "Niger",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NE.png"
+  },
+  {
+    "iso2Code": "NG",
+    "iso3Code": "NGA",
+    "name": "Nigeria",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NG.png"
+  },
+  {
+    "iso2Code": "NI",
+    "iso3Code": "NIC",
+    "name": "Nicaragua",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NI.png"
+  },
+  {
+    "iso2Code": "NL",
+    "iso3Code": "NLD",
+    "name": "Netherlands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NL.png"
+  },
+  {
+    "iso2Code": "NO",
+    "iso3Code": "NOR",
+    "name": "Norway",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NO.png"
+  },
+  {
+    "iso2Code": "NP",
+    "iso3Code": "NPL",
+    "name": "Nepal",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NP.png"
+  },
+  {
+    "iso2Code": "NR",
+    "iso3Code": "NRU",
+    "name": "Nauru",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NR.png"
+  },
+  {
+    "iso2Code": "NZ",
+    "iso3Code": "NZL",
+    "name": "New Zealand",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/NZ.png"
+  },
+  {
+    "iso2Code": "OM",
+    "iso3Code": "OMN",
+    "name": "Oman",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/OM.png"
+  },
+  {
+    "iso2Code": "PK",
+    "iso3Code": "PAK",
+    "name": "Pakistan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PK.png"
+  },
+  {
+    "iso2Code": "PA",
+    "iso3Code": "PAN",
+    "name": "Panama",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PA.png"
+  },
+  {
+    "iso2Code": "PE",
+    "iso3Code": "PER",
+    "name": "Peru",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PE.png"
+  },
+  {
+    "iso2Code": "PH",
+    "iso3Code": "PHL",
+    "name": "Philippines",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PH.png"
+  },
+  {
+    "iso2Code": "PW",
+    "iso3Code": "PLW",
+    "name": "Palau",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PW.png"
+  },
+  {
+    "iso2Code": "PG",
+    "iso3Code": "PNG",
+    "name": "Papua New Guinea",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PG.png"
+  },
+  {
+    "iso2Code": "PL",
+    "iso3Code": "POL",
+    "name": "Poland",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PL.png"
+  },
+  {
+    "iso2Code": "PR",
+    "iso3Code": "PRI",
+    "name": "Puerto Rico",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PR.png"
+  },
+  {
+    "iso2Code": "KP",
+    "iso3Code": "PRK",
+    "name": "Korea, Dem. People's Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/KP.png"
+  },
+  {
+    "iso2Code": "PT",
+    "iso3Code": "PRT",
+    "name": "Portugal",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PT.png"
+  },
+  {
+    "iso2Code": "PY",
+    "iso3Code": "PRY",
+    "name": "Paraguay",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PY.png"
+  },
+  {
+    "iso2Code": "PF",
+    "iso3Code": "PYF",
+    "name": "French Polynesia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/PF.png"
+  },
+  {
+    "iso2Code": "QA",
+    "iso3Code": "QAT",
+    "name": "Qatar",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/QA.png"
+  },
+  {
+    "iso2Code": "RO",
+    "iso3Code": "ROU",
+    "name": "Romania",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/RO.png"
+  },
+  {
+    "iso2Code": "RU",
+    "iso3Code": "RUS",
+    "name": "Russian Federation",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/RU.png"
+  },
+  {
+    "iso2Code": "RW",
+    "iso3Code": "RWA",
+    "name": "Rwanda",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/RW.png"
+  },
+  {
+    "iso2Code": "SA",
+    "iso3Code": "SAU",
+    "name": "Saudi Arabia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SA.png"
+  },
+  {
+    "iso2Code": "SD",
+    "iso3Code": "SDN",
+    "name": "Sudan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SD.png"
+  },
+  {
+    "iso2Code": "SN",
+    "iso3Code": "SEN",
+    "name": "Senegal",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SN.png"
+  },
+  {
+    "iso2Code": "SG",
+    "iso3Code": "SGP",
+    "name": "Singapore",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SG.png"
+  },
+  {
+    "iso2Code": "SB",
+    "iso3Code": "SLB",
+    "name": "Solomon Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SB.png"
+  },
+  {
+    "iso2Code": "SL",
+    "iso3Code": "SLE",
+    "name": "Sierra Leone",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SL.png"
+  },
+  {
+    "iso2Code": "SV",
+    "iso3Code": "SLV",
+    "name": "El Salvador",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SV.png"
+  },
+  {
+    "iso2Code": "SM",
+    "iso3Code": "SMR",
+    "name": "San Marino",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SM.png"
+  },
+  {
+    "iso2Code": "SO",
+    "iso3Code": "SOM",
+    "name": "Somalia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SO.png"
+  },
+  {
+    "iso2Code": "RS",
+    "iso3Code": "SRB",
+    "name": "Serbia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/RS.png"
+  },
+  {
+    "iso2Code": "SS",
+    "iso3Code": "SSD",
+    "name": "South Sudan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SS.png"
+  },
+  {
+    "iso2Code": "ST",
+    "iso3Code": "STP",
+    "name": "Sao Tome and Principe",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ST.png"
+  },
+  {
+    "iso2Code": "SR",
+    "iso3Code": "SUR",
+    "name": "Suriname",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SR.png"
+  },
+  {
+    "iso2Code": "SK",
+    "iso3Code": "SVK",
+    "name": "Slovak Republic",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SK.png"
+  },
+  {
+    "iso2Code": "SI",
+    "iso3Code": "SVN",
+    "name": "Slovenia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SI.png"
+  },
+  {
+    "iso2Code": "SE",
+    "iso3Code": "SWE",
+    "name": "Sweden",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SE.png"
+  },
+  {
+    "iso2Code": "SZ",
+    "iso3Code": "SWZ",
+    "name": "Eswatini",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SZ.png"
+  },
+  {
+    "iso2Code": "SX",
+    "iso3Code": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SX.png"
+  },
+  {
+    "iso2Code": "SC",
+    "iso3Code": "SYC",
+    "name": "Seychelles",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SC.png"
+  },
+  {
+    "iso2Code": "SY",
+    "iso3Code": "SYR",
+    "name": "Syrian Arab Republic",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/SY.png"
+  },
+  {
+    "iso2Code": "TC",
+    "iso3Code": "TCA",
+    "name": "Turks and Caicos Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TC.png"
+  },
+  {
+    "iso2Code": "TD",
+    "iso3Code": "TCD",
+    "name": "Chad",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TD.png"
+  },
+  {
+    "iso2Code": "TG",
+    "iso3Code": "TGO",
+    "name": "Togo",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TG.png"
+  },
+  {
+    "iso2Code": "TH",
+    "iso3Code": "THA",
+    "name": "Thailand",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TH.png"
+  },
+  {
+    "iso2Code": "TJ",
+    "iso3Code": "TJK",
+    "name": "Tajikistan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TJ.png"
+  },
+  {
+    "iso2Code": "TM",
+    "iso3Code": "TKM",
+    "name": "Turkmenistan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TM.png"
+  },
+  {
+    "iso2Code": "TL",
+    "iso3Code": "TLS",
+    "name": "Timor-Leste",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TL.png"
+  },
+  {
+    "iso2Code": "TO",
+    "iso3Code": "TON",
+    "name": "Tonga",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TO.png"
+  },
+  {
+    "iso2Code": "TT",
+    "iso3Code": "TTO",
+    "name": "Trinidad and Tobago",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TT.png"
+  },
+  {
+    "iso2Code": "TN",
+    "iso3Code": "TUN",
+    "name": "Tunisia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TN.png"
+  },
+  {
+    "iso2Code": "TR",
+    "iso3Code": "TUR",
+    "name": "Turkiye",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TR.png"
+  },
+  {
+    "iso2Code": "TV",
+    "iso3Code": "TUV",
+    "name": "Tuvalu",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TV.png"
+  },
+  {
+    "iso2Code": "TZ",
+    "iso3Code": "TZA",
+    "name": "Tanzania",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/TZ.png"
+  },
+  {
+    "iso2Code": "UG",
+    "iso3Code": "UGA",
+    "name": "Uganda",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/UG.png"
+  },
+  {
+    "iso2Code": "UA",
+    "iso3Code": "UKR",
+    "name": "Ukraine",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/UA.png"
+  },
+  {
+    "iso2Code": "UY",
+    "iso3Code": "URY",
+    "name": "Uruguay",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/UY.png"
+  },
+  {
+    "iso2Code": "US",
+    "iso3Code": "USA",
+    "name": "United States",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/US.png"
+  },
+  {
+    "iso2Code": "UZ",
+    "iso3Code": "UZB",
+    "name": "Uzbekistan",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/UZ.png"
+  },
+  {
+    "iso2Code": "VC",
+    "iso3Code": "VCT",
+    "name": "St. Vincent and the Grenadines",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/VC.png"
+  },
+  {
+    "iso2Code": "VE",
+    "iso3Code": "VEN",
+    "name": "Venezuela, RB",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/VE.png"
+  },
+  {
+    "iso2Code": "VG",
+    "iso3Code": "VGB",
+    "name": "British Virgin Islands",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/VG.png"
+  },
+  {
+    "iso2Code": "VI",
+    "iso3Code": "VIR",
+    "name": "Virgin Islands (U.S.)",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/VI.png"
+  },
+  {
+    "iso2Code": "VN",
+    "iso3Code": "VNM",
+    "name": "Vietnam",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/VN.png"
+  },
+  {
+    "iso2Code": "VU",
+    "iso3Code": "VUT",
+    "name": "Vanuatu",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/VU.png"
+  },
+  {
+    "iso2Code": "WS",
+    "iso3Code": "WSM",
+    "name": "Samoa",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/WS.png"
+  },
+  {
+    "iso2Code": "XK",
+    "iso3Code": "XKX",
+    "name": "Kosovo",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/XK.png"
+  },
+  {
+    "iso2Code": "YE",
+    "iso3Code": "YEM",
+    "name": "Yemen, Rep.",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/YE.png"
+  },
+  {
+    "iso2Code": "ZA",
+    "iso3Code": "ZAF",
+    "name": "South Africa",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ZA.png"
+  },
+  {
+    "iso2Code": "ZM",
+    "iso3Code": "ZMB",
+    "name": "Zambia",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ZM.png"
+  },
+  {
+    "iso2Code": "ZW",
+    "iso3Code": "ZWE",
+    "name": "Zimbabwe",
+    "Country Flag": "https://flaglog.com/codes/standardized-rectangle-120px/ZW.png"
+  }
+]
